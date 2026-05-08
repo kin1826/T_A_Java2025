@@ -1,5 +1,7 @@
 Hướng dẫn cách cài đặt về 
 
+tải tomcat ở: https://tomcat.apache.org/download-10.cgi?utm_source=chatgpt.com
+
 chạy lệnh: 
 
 ```
