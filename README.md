@@ -5,7 +5,7 @@ tải tomcat ở: https://tomcat.apache.org/download-10.cgi?utm_source=chatgpt.c
 chạy lệnh: 
 
 ```
-git clone -b ten-branch --single-branch https://github.com/kin1826/T_A_Java2025.git
+git clone -b fect/tomcat --single-branch https://github.com/kin1826/T_A_Java2025.git
 ```
 
 tạo database: 
